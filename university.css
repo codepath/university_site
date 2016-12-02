@@ -1,0 +1,1100 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500);
+/*Proxima Nova
+Font Weights: 100, 300, 400*/
+@viewport {
+  zoom: 1.0;
+  width: device-width; }
+
+@media (min-width: 320px) and (max-width: 470px) {
+  .jumbotron {
+    padding: 10%; }
+    .jumbotron h1 {
+      margin: 2.5em 0 0.25em 0; }
+
+  .socialproof h5 {
+    padding-bottom: 5%; }
+
+  .bulletpoints {
+    padding: 10%; }
+    .bulletpoints li {
+      margin: 0;
+      border: solid transparent; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1em;
+        margin: 5% 0 5% 25%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+
+  .tealbackground h2 {
+    font-weight: 100; }
+  .tealbackground p {
+    font-weight: 100;
+    font-size: 1.1em;
+    margin-bottom: 10%; }
+  .tealbackground .paulina {
+    margin-top: 10%; }
+    .tealbackground .paulina p {
+      margin: 15px 0 0 0;
+      font-size: 1em; }
+
+  .questions {
+    padding: 5% 10% 5% 10%; } }
+@media (min-width: 451px) and (max-width: 688px) {
+  .jumbotron {
+    padding: 10%; }
+    .jumbotron h1 {
+      margin: 2.5em 0 1em 0; }
+
+  .socialproof h5 {
+    padding-bottom: 5%; }
+
+  .tealbackground h2 {
+    font-weight: 100; }
+  .tealbackground p {
+    font-weight: 100;
+    font-size: 1.2em;
+    margin-bottom: 10%; }
+  .tealbackground .paulina {
+    margin-top: 10%; }
+    .tealbackground .paulina p {
+      margin: 15px 0 0 0;
+      font-size: 1.2em; }
+
+  .bulletpoints {
+    padding: 10%; }
+    .bulletpoints li {
+      margin: 0;
+      border: solid transparent; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1em;
+        margin: 5% 0 5% 20%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+
+  .questions {
+    padding: 5% 10% 5% 10%; } }
+@media (min-width: 688px) and (max-width: 767px) {
+  .jumbotron {
+    padding: 10%; }
+    .jumbotron h1 {
+      margin: 3em 0 0.5em 0; }
+
+  .socialproof h5 {
+    padding-bottom: 5%; }
+  .socialproof img {
+    max-width: 70%; }
+
+  .tealbackground h2 {
+    font-weight: 100; }
+  .tealbackground p {
+    font-weight: 100;
+    font-size: 1.2em;
+    margin-bottom: 10%; }
+  .tealbackground .paulina {
+    margin-top: 10%; }
+    .tealbackground .paulina p {
+      margin: 15px 0 0 0;
+      font-size: 1.2em; }
+
+  .bulletpoints {
+    padding: 10%; }
+    .bulletpoints li {
+      margin: 0;
+      border: solid transparent; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1.5em;
+        margin: 5% 0 5% 20%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 14%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 14%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 14%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 14%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 14%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 14%;
+      background-position: left center; }
+
+  .questions {
+    padding: 5% 10% 5% 10%; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .jumbotron {
+    padding: 10%; }
+    .jumbotron h1 {
+      margin: 3em 0 0.5em 0; }
+    .jumbotron h2 {
+      color: #fff;
+      font-weight: 100; }
+
+  .socialproof h5 {
+    padding-bottom: 5%; }
+  .socialproof img {
+    max-width: 70%; }
+
+  .tealbackground h2 {
+    font-weight: 100; }
+  .tealbackground p {
+    font-weight: 100;
+    font-size: 1.2em;
+    margin-bottom: 10%; }
+  .tealbackground .paulina {
+    margin-top: 10%; }
+    .tealbackground .paulina p {
+      margin: 15px 0 0 0;
+      font-size: 1.2em; }
+
+  .bulletpoints {
+    padding: 10%; }
+    .bulletpoints ul {
+      border: solid transparent; }
+    .bulletpoints li {
+      margin: 0;
+      border: solid red;
+      height: 10em; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1.25em;
+        margin: 10% 0 10% 25%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 20%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 20%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 20%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 20%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 20%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 20%;
+      background-position: left center; }
+
+  .building p {
+    font-size: 1em; }
+
+  .questions {
+    padding: 5% 10% 5% 10%; } }
+@media (min-width: 992px) and (max-width: 1224px) {
+  .navbar .navbar-header {
+    margin-left: 6.25%; }
+
+  .jumbotron {
+    margin: 0;
+    padding: 15% 8% 3% 8%; }
+    .jumbotron .jdesktop {
+      margin: 0;
+      padding: 0; }
+    .jumbotron h1 {
+      margin: 0;
+      font-size: 3em; }
+    .jumbotron h2 {
+      color: #fff;
+      font-size: 1.5em;
+      font-weight: 100; }
+    .jumbotron img.timeline {
+      float: right;
+      width: 50%; }
+    .jumbotron .btn.btn-primary.btn-lg {
+      margin-top: 100px; }
+
+  .socialproof {
+    padding: 3% 1% 1% 1%; }
+    .socialproof .largeco {
+      margin: 0px auto;
+      width: 80%;
+      /*Shrank width*/
+      padding: 0 0 10px;
+      border-bottom: 1px solid #cbcbcb; }
+
+  .bulletpoints {
+    padding: 10%; }
+    .bulletpoints ul {
+      border: solid transparent; }
+    .bulletpoints li {
+      margin: 0;
+      border: solid red;
+      height: 10em; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1.25em;
+        margin: 10% 0 10% 25%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 18%;
+      background-position: left center; }
+
+  .internship {
+    padding: 10%; }
+
+  .coding {
+    margin-top: 5%;
+    padding: 0 10% 10% 10%;
+    border-top: solid transparent;
+    border-bottom: 1px solid #cbcbcb;
+    background: url("images/university/iphonedropbox.png") no-repeat;
+    background-position: 80% 100%;
+    background-size: contain;
+    height: 600px; }
+
+  .idea {
+    padding: 0 10% 10% 10%;
+    background: url("images/university/spitfire.png") no-repeat;
+    background-position: 95% 100%;
+    background-size: contain;
+    height: 550px; }
+
+  .instruction {
+    padding: 10% 10% 20% 10%; }
+
+  .questions {
+    padding: 5% 10% 5% 10%; } }
+@media (min-width: 1225px) and (max-width: 1500px) {
+  .navbar .navbar-header {
+    margin-left: 6.75%; }
+
+  .jumbotron {
+    margin: 0;
+    padding: 8% 8% 5% 8%; }
+    .jumbotron .jdesktop {
+      margin: 0;
+      padding: 0; }
+    .jumbotron h1 {
+      margin: 0;
+      font-size: 3em; }
+    .jumbotron h2 {
+      color: #fff;
+      font-size: 1.5em;
+      font-weight: 100; }
+    .jumbotron img.timeline {
+      float: right;
+      width: 45%; }
+    .jumbotron .btn.btn-primary.btn-lg {
+      margin-top: 100px; }
+
+  .socialproof {
+    padding: 2% 1% 1% 1%; }
+    .socialproof .largeco {
+      margin: 0px auto;
+      width: 70%;
+      /*Shrank width*/
+      padding: 0 0 10px;
+      border-bottom: 1px solid #cbcbcb; }
+
+  .bulletpoints {
+    padding: 8%; }
+    .bulletpoints li {
+      margin: 0;
+      height: 10em;
+      border: transparent; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1.25em;
+        margin: 9% 0 10% 20%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+
+  .internship {
+    padding: 8%; }
+
+  .coding {
+    margin-top: 5%;
+    padding: 0 10% 10% 8%;
+    border-top: solid transparent;
+    border-bottom: 1px solid #cbcbcb;
+    background: url("images/university/iphonedropbox.png") no-repeat;
+    background-position: 80% 100%;
+    background-size: contain;
+    height: 600px; }
+
+  .idea {
+    padding: 0 10% 10% 8%;
+    background: url("images/university/spitfire.png") no-repeat;
+    background-position: 95% 100%;
+    background-size: contain;
+    height: 550px; }
+
+  .instruction {
+    padding: 10% 10% 20% 8%; }
+
+  .questions {
+    padding: 5% 10% 5% 8%; } }
+@media (min-width: 1500px) and (max-width: 2000px) {
+  .navbar .navbar-header {
+    margin-left: 7%; }
+
+  .jumbotron {
+    margin: 0;
+    padding: 10% 8% 8% 8%; }
+    .jumbotron .jdesktop {
+      margin: 0;
+      padding: 0; }
+    .jumbotron h1 {
+      margin: 0;
+      font-size: 3em; }
+    .jumbotron h2 {
+      color: #fff;
+      font-size: 1.5em;
+      font-weight: 100; }
+    .jumbotron img.timeline {
+      float: right;
+      width: 40%; }
+    .jumbotron .btn.btn-primary.btn-lg {
+      margin-top: 100px; }
+
+  .socialproof {
+    padding: 1%; }
+    .socialproof .largeco {
+      margin: 0px auto;
+      width: 80%;
+      /*Shrank width*/
+      padding: 0 0 10px;
+      border-bottom: 1px solid #cbcbcb; }
+
+  .bulletpoints {
+    padding: 8%; }
+    .bulletpoints li {
+      margin: 0;
+      height: 10em;
+      border: transparent; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1.25em;
+        margin: 6% 0 6% 20%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 15%;
+      background-position: left center; }
+
+  .tealtext h2 {
+    font-size: 3.5em; }
+  .tealtext p {
+    font-size: 1.75em; }
+
+  .internship {
+    padding: 8%; }
+
+  .coding {
+    margin-top: 5%;
+    padding: 0 10% 10% 8%;
+    border-top: solid transparent;
+    border-bottom: 1px solid #cbcbcb;
+    background: url("images/university/iphonedropbox.png") no-repeat;
+    background-position: 83% 100%;
+    background-size: contain;
+    height: 700px; }
+
+  .idea {
+    background: url("images/university/spitfire.png") no-repeat;
+    background-position: 95% 100%;
+    background-size: contain;
+    height: 700px;
+    padding: 0 10% 10% 8%; }
+    .idea h2 {
+      margin-top: -20%; }
+
+  .instruction {
+    padding: 10% 10% 20% 8%; }
+
+  .buildtext {
+    padding: 0; }
+    .buildtext h2 {
+      font-size: 3.5em; }
+    .buildtext p {
+      font-size: 1.75em; }
+
+  .leader h2 {
+    font-size: 3.5em; }
+  .leader p {
+    font-size: 1.75em; }
+  .leader .btn.btn-primary.btn-lg {
+    margin-top: 3%;
+    font-size: 1em; }
+
+  .nbio p {
+    font-size: 1.75em; }
+
+  .tbio p {
+    font-size: 1.75em; }
+
+  .questions {
+    padding: 5% 10% 5% 8%; }
+    .questions h3 {
+      font-size: 3.25em; }
+    .questions p {
+      font-size: 2em; } }
+@media (min-width: 2000px) {
+  .navbar .navbar-header {
+    margin-left: 9.5%; }
+
+  .jumbotron {
+    margin: 0;
+    padding: 8% 8% 0 10%; }
+    .jumbotron h1 {
+      margin: 0;
+      font-size: 3em; }
+    .jumbotron h2 {
+      color: #fff;
+      font-size: 1.5em;
+      font-weight: 100; }
+    .jumbotron img.timeline {
+      float: right;
+      width: 30%;
+      margin-top: -2%;
+      margin-left: -5%; }
+    .jumbotron .btn.btn-primary.btn-lg {
+      margin-top: 100px;
+      font-size: 1.5em; }
+
+  .socialproof {
+    padding: 1%; }
+    .socialproof .largeco {
+      margin: 0px auto;
+      width: 50%;
+      /*Shrank width*/
+      padding: 0 0 10px;
+      border-bottom: 1px solid #cbcbcb; }
+    .socialproof p {
+      font-size: 1.25em; }
+
+  .bulletpoints {
+    padding: 10%;
+    margin: 0; }
+    .bulletpoints li {
+      margin: 0;
+      height: 10em;
+      border: transparent; }
+      .bulletpoints li p {
+        /* How centered the text is relative to the size of the bullet points */
+        font-size: 1.75em;
+        margin: 3% 0 4% 15%; }
+    .bulletpoints li.notebook {
+      background: url("images/university/notebook.png") no-repeat;
+      background-size: 8%;
+      background-position: left center; }
+    .bulletpoints li.slide {
+      background: url("images/university/slide.png") no-repeat;
+      background-size: 8%;
+      background-position: left center; }
+    .bulletpoints li.computer {
+      background: url("images/university/computer.png") no-repeat;
+      background-size: 8%;
+      background-position: left center; }
+    .bulletpoints li.iphone {
+      background: url("images/university/iphone.png") no-repeat;
+      background-size: 8%;
+      background-position: left center; }
+    .bulletpoints li.moneybag {
+      background: url("images/university/moneybag.png") no-repeat;
+      background-size: 8%;
+      background-position: left center; }
+    .bulletpoints li.friends {
+      background: url("images/university/friends.png") no-repeat;
+      background-size: 8%;
+      background-position: left center; }
+
+  .tealtext h2 {
+    font-size: 3.5em; }
+  .tealtext p {
+    font-size: 1.75em; }
+
+  .internship {
+    padding: 10%; }
+
+  .paulina p {
+    font-size: 1.75em;
+    margin-top: 3%; }
+
+  .coding {
+    margin-top: 5%;
+    padding: 0 10% 10% 10%;
+    border-top: solid transparent;
+    border-bottom: 1px solid #cbcbcb;
+    background: url("images/university/iphonedropbox.png") no-repeat;
+    background-position: 85% 100%;
+    background-size: contain;
+    height: 700px; }
+
+  .idea {
+    background: url("images/university/spitfire.png") no-repeat;
+    background-position: 90% 100%;
+    background-size: contain;
+    height: 700px;
+    padding: 0 10% 10% 10%; }
+    .idea h2 {
+      margin-top: -20%; }
+
+  .instruction {
+    padding: 10% 10% 20% 10%; }
+
+  .buildtext {
+    padding: 0; }
+    .buildtext h2 {
+      font-size: 3.5em; }
+    .buildtext p {
+      font-size: 1.75em; }
+
+  .nbio p {
+    font-size: 1.75em; }
+
+  .tbio p {
+    font-size: 1.75em; }
+
+  .questions {
+    padding: 5% 10% 5% 10%; }
+    .questions h3 {
+      font-size: 3.25em; }
+    .questions p {
+      font-size: 2em; } }
+html, body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden; }
+
+h1, h2, h3, h4, h5, h6, p, small {
+  font-family: 'Roboto', sans-serif; }
+
+.navbar .btn {
+  float: right;
+  background-color: #54d5f1;
+  color: #fff;
+  border: none;
+  font-size: 10px;
+  margin-top: 5px;
+  font-weight: 400;
+  width: 175px;
+  line-height: 20px;
+  border-radius: 0; }
+.navbar .btn:hover {
+  color: #2b2b2b;
+  background-color: rgba(84, 213, 241, 0.8); }
+
+.logo {
+  margin: -10% 0 10% 0; }
+
+.jumbotron {
+  background: url("images/university/hero_background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .jumbotron h1 {
+    font-weight: 100;
+    width: 80%;
+    color: #fff; }
+  .jumbotron p {
+    color: #fff;
+    font-size: 1.25em;
+    width: 80%;
+    margin-bottom: 7em; }
+  .jumbotron .btn {
+    background-color: #ffffff;
+    margin: 0;
+    color: #3ea1b6;
+    border: none;
+    padding: 1.75% 10% 1.75% 10%;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 35px;
+    border-radius: 0;
+    margin-top: 4%;
+    margin-bottom: 10%; }
+  .jumbotron .btn:hover {
+    color: #2b2b2b;
+    background-color: rgba(255, 255, 255, 0.8); }
+  .jumbotron .signup {
+    padding-top: 3%;
+    width: 25%; }
+  .jumbotron .signupmobile {
+    width: 50%; }
+
+.socialproof h5 {
+  color: #cbcbcb;
+  font-weight: 400;
+  /*padding-bottom: 1%;*/ }
+.socialproof p {
+  margin-top: 2%;
+  color: #cbcbcb;
+  width: 80%; }
+.socialproof .largeco {
+  margin: 0px auto;
+  padding: 0 0 10px;
+  border-bottom: 1px solid #cbcbcb; }
+.socialproof .smallco {
+  margin: 0px auto;
+  padding: 0 0 10px;
+  border-bottom: 1px solid #cbcbcb; }
+
+.bulletpoints {
+  background: url("images/university/s2background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .bulletpoints h1, .bulletpoints h2, .bulletpoints p {
+    color: #fff;
+    font-weight: 100; }
+  .bulletpoints ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+  .bulletpoints li {
+    margin: 0;
+    border: solid transparent; }
+  .bulletpoints p {
+    margin: 0;
+    padding: 0;
+    font-size: 1em; }
+
+.tealbackground {
+  background: url("images/university/teal.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  margin: 0;
+  padding: 0; }
+  .tealbackground h2, .tealbackground p {
+    font-weight: 100; }
+  .tealbackground .internship {
+    /*padding: 10%;*/
+    margin: 0;
+    border-bottom: 1px solid #cbcbcb;
+    overflow: hidden; }
+    .tealbackground .internship .paulina {
+      float: right;
+      width: 40%;
+      margin: 0;
+      padding: 0; }
+      .tealbackground .internship .paulina img {
+        padding-bottom: 10px;
+        width: 70%; }
+    .tealbackground .internship .tealtext {
+      width: 50%;
+      margin: 0;
+      border: 0; }
+  .tealbackground .internshipmobile {
+    border: solid transparent;
+    padding: 10%;
+    border-bottom: 1px solid #cbcbcb; }
+    .tealbackground .internshipmobile .paulina img {
+      width: 50%; }
+  .tealbackground .coding {
+    margin-top: 5%;
+    border-top: solid transparent;
+    border-bottom: 1px solid #cbcbcb; }
+    .tealbackground .coding .tealtext {
+      width: 40%;
+      padding: 0;
+      margin: 10% 0 0 0; }
+  .tealbackground .codingmobile {
+    padding: 10%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 1px solid #cbcbcb; }
+    .tealbackground .codingmobile .sampleproj {
+      margin: 0;
+      padding: 0; }
+      .tealbackground .codingmobile .sampleproj img {
+        width: 75%; }
+  .tealbackground .idea {
+    margin-top: 5%;
+    border-top: solid transparent;
+    border-bottom: 1px solid #cbcbcb; }
+    .tealbackground .idea .tealtext {
+      width: 40%;
+      padding: 0;
+      margin: 15% 0 0 0; }
+  .tealbackground .ideamobile {
+    padding: 10%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 1px solid #cbcbcb; }
+    .tealbackground .ideamobile .sampleproj {
+      margin: 0;
+      padding: 0; }
+      .tealbackground .ideamobile .sampleproj img {
+        width: 75%; }
+  .tealbackground .instruction {
+    margin: 0;
+    background: url("images/university/logocloud.png") no-repeat;
+    background-position: 90% 50%;
+    background-size: 40%; }
+    .tealbackground .instruction .tealtext {
+      width: 40%;
+      padding: 0;
+      margin: 0; }
+  .tealbackground .instructionmobile {
+    padding: 10%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 1px solid #cbcbcb; }
+    .tealbackground .instructionmobile .sampleproj {
+      margin: 0;
+      padding: 5% 0 5% 0; }
+      .tealbackground .instructionmobile .sampleproj img {
+        width: 100%; }
+
+.building {
+  background: url("images/university/s2background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10%; }
+  .building h1, .building h2, .building p {
+    color: #fff;
+    font-weight: 100; }
+  .building .buildtext {
+    width: 40%;
+    margin: 0px auto; }
+  .building .btn {
+    background-color: rgba(255, 255, 255, 0.14);
+    color: #fff;
+    font-weight: 100;
+    border: none;
+    margin: 20px 0 0 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 12px;
+    border-radius: 2px; }
+  .building .profiletext {
+    margin: 5% 0 5% 0;
+    padding: 0; }
+    .building .profiletext p {
+      margin: 0;
+      padding: 0; }
+    .building .profiletext .nathan {
+      text-align: right;
+      margin: 0;
+      padding: 0; }
+      .building .profiletext .nathan .nbio {
+        padding: 3% 30% 0 0; }
+      .building .profiletext .nathan img {
+        float: right;
+        margin: 0;
+        padding: 0 1% 0 0;
+        width: 20%; }
+    .building .profiletext .tim {
+      text-align: left;
+      margin: 0;
+      padding: 0; }
+      .building .profiletext .tim .tbio {
+        padding: 3% 0 0 30%; }
+      .building .profiletext .tim img {
+        float: left;
+        margin: 0;
+        padding: 0 0 0 1%;
+        width: 20%; }
+
+.mobile-building {
+  background: url("images/university/s2background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10% 15% 0 18%;
+  /*This padding is optimized for iPhone 6*/ }
+  .mobile-building .btn {
+    background-color: rgba(255, 255, 255, 0.14);
+    color: #fff;
+    font-weight: 100;
+    border: none;
+    margin: 20px 0 0 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 12px;
+    border-radius: 2px; }
+  .mobile-building h1, .mobile-building h2, .mobile-building p {
+    color: #fff;
+    font-weight: 100; }
+  .mobile-building ul {
+    list-style-type: none;
+    margin: 0px auto;
+    padding: 0; }
+  .mobile-building li p {
+    margin: 0;
+    padding: 0; }
+  .mobile-building li.nathanli {
+    background: url("images/university/nathan_profile.png") no-repeat;
+    background-size: 75px 75px;
+    padding: 10px 0 10px 100px; }
+  .mobile-building li.timli {
+    background: url("images/university/tim_profile.png") no-repeat;
+    background-size: 75px 75px;
+    padding: 10px 0 10px 100px; }
+
+.leader {
+  background: url("images/university/salmon.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff; }
+  .leader .leadertext {
+    padding: 5% 10% 5% 10%; }
+    .leader .leadertext h2, .leader .leadertext p {
+      font-weight: 100; }
+  .leader .btn {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #2b2b2b;
+    font-weight: 300;
+    border: none;
+    margin: 20px 0 0 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 12px;
+    border-radius: 2px; }
+  .leader .btn:hover {
+    color: #2b2b2b;
+    background-color: white; }
+
+.questions {
+  margin: 0;
+  font-weight: 100;
+  color: #747474; }
+  .questions h3 {
+    font-weight: 100; }
+  .questions a {
+    color: #4af0da; }
+  .questions p {
+    font-weight: 200; }
+  .questions ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+    .questions ul li {
+      padding: 0 0 3% 0; }
+  .questions ol li {
+    padding: 0; }
+
+.finalcta {
+  background: url("images/university/salmon.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  color: #fff;
+  padding: 8%; }
+  .finalcta h1 {
+    font-weight: 100; }
+  .finalcta .btn {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #2b2b2b;
+    font-weight: 300;
+    border: none;
+    margin: 20px 0 0 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 1em;
+    border-radius: 2px; }
+  .finalcta .btn:hover {
+    color: #2b2b2b;
+    background-color: white; }
+  .finalcta p {
+    font-size: 1.5em;
+    font-weight: 100; }
+
+.socialfooter {
+  background-color: #25323c;
+  padding: 8%; }
+  .socialfooter p {
+    color: #fff; }
+  .socialfooter .fblogo {
+    width: 200px;
+    margin-bottom: 50px; }
+  .socialfooter .c240logo {
+    width: 250px;
+    padding-right: 30px;
+    padding-bottom: 20px; }
+  .socialfooter .wwclogo {
+    width: 125px; }
+  .socialfooter .recpartners {
+    margin-top: 50px; }
+  .socialfooter .recruitinglogo {
+    width: 800px; }
+  .socialfooter .smallrl {
+    margin-top: 20px;
+    width: 350px; }
+  .socialfooter .advisors {
+    margin-top: 50px; }
+  .socialfooter .nametitle {
+    padding: 20px;
+    margin-left: 70px; }
+    .socialfooter .nametitle p {
+      margin: 0;
+      padding: 0; }
+  .socialfooter .sam {
+    width: 80px;
+    float: left; }
+
+.footer {
+  background-color: #fff;
+  color: #828282;
+  margin: 0px auto;
+  padding: 8%; }
+  .footer a {
+    color: #828282;
+    font-size: 15px; }
+  .footer .social {
+    margin: 0px auto;
+    text-align: center;
+    padding-bottom: 20px; }
+    .footer .social img {
+      max-width: 20px; }
+    .footer .social p {
+      font-size: 16px;
+      font-weight: 300;
+      margin: 0;
+      padding: 0; }
+  .footer .extranav {
+    margin: 0px auto;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: 300;
+    font-size: 12px; }
+    .footer .extranav a {
+      padding-left: 5px;
+      padding-right: 5px; }
+  .footer .copyright {
+    margin: 0px auto;
+    text-align: center; }
+    .footer .copyright p {
+      font-size: 10px;
+      font-weight: 300; }
+
+.jumbotron.leaderpage {
+  margin-top: 0.6em; }
+
+.leaderboard {
+  font-size: 1.5em;
+  margin-left: 8%;
+  margin-top: 1em; }
+
+a.btn.btn-primary.btn-lg.condensed {
+  margin: 0.5em; }
